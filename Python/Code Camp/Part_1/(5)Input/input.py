@@ -1,0 +1,11 @@
+print("Hallo! Was ist ihr name?")
+name = input()
+print("Wow! your name is " + name)
+print("My name is also " +name + ". Welcome!")
+
+print("How old are you?")
+age = int(input())
+print("What is your favourute number")
+fav_num = int(input())
+#print(str(age+fav_num))
+print("Your login number is: " + str(age+fav_num))
