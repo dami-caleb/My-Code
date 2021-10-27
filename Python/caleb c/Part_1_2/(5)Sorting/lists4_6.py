@@ -11,7 +11,8 @@ print(stuff)
 #Remember True=1, False =0
 
 #Notice
-#none of the data is a string that can not be converted
+#none of the data is a string that can not be converted (i.e. all the data
+# in the list must be convertable)
  
 
 

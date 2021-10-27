@@ -10,6 +10,6 @@ data.sort(key=str)
 
 print(data)
 #notice the actual data in the list "data" 
-#are still integers (numbers). 
+#are still integers (numbers), they did not chage
 #We did not convert the data in the list to a string
 
