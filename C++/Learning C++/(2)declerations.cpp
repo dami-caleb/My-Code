@@ -1,3 +1,5 @@
+//Declerations and arithemetic operations
+
 #include <iostream>
 
 using namespace std;
