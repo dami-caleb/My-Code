@@ -46,10 +46,7 @@ int main(){
 ____________________________________________
 */
 
-/*
-____________________________________________
 
-//solution to homework
 #include <iostream>
 #include <string>
 using namespace std;
@@ -62,6 +59,4 @@ int main(){
     return 0;
 }
 
-____________________________________________
-*/
 
