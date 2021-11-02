@@ -15,7 +15,7 @@ int main(){
     cout <<"4*2 = "<< four[1]<<endl;
     cout <<"4*3 = "<<four[2] <<endl;
     cout <<"4*4 = "<<four[3] <<endl;
-
+    cout<<endl; //this prints an empty line
 
 
 
