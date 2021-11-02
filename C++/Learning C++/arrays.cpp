@@ -4,6 +4,7 @@
 using namespace std;
 
 int four[4];
+float temp[] = {2.3,43.4,45.4}; //note that the data type of the array is specified, auto can not be used for arrays
 int main(){
     four[0]=4;
     four[1]=8;
