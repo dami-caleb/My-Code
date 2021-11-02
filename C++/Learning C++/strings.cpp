@@ -8,6 +8,7 @@ The std::string class comes with the C++ standard library
 
 #include <iostream>
 #include <string>  //this string header contains the string class
+#include <cstring>
 using namespace std;
 
 int main(){
