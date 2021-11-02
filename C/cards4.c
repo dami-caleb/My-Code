@@ -68,5 +68,5 @@ your program only if it complies
 
 1. "while repeats code as long as a condition is true"
 2. "do-while" loops run code at least once
-3. "for loops" are a more compact way of writing loops
+3. "for loops" are a more compact(closely and neatly packed together) way of writing loops
 */
