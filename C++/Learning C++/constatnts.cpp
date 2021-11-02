@@ -15,3 +15,5 @@ irregularities in the code related to the type. Also, scoping capsulation is enf
 The const qualifier is not exactly the same in C and C++. The C version only means that a variable cannot change, 
 but it lacks most of the features implemented in C++. That's one of the reasons why more common in C than C++
 */
+
+#define age 4; //is is a macro decleration
