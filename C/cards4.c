@@ -44,6 +44,8 @@ int main(){
 
 
 /*
+SUMMARY
+
 1. Switch statements efficently check for multiple values
 of a variable
 2. Every program needs a main() function
@@ -52,6 +54,19 @@ of a variable
 your program only if it complies
 5. -o specifies the output file
 
-1.Si
+1.Simple statements are commands
+2.Block statements are surrounded by {and} (braces).
+3.if statements run code if something is true.
 
+1.#include inculdes external code for things like input and output
+
+1.You can use && and || to combines comditions together
+2.gcc is the most popular C compiler
+3. Your source files should have a name ending in .c
+4. "count--" means subtract 1 from count
+5. count++ means add 1 to count
+
+1. "while repeats code as long as a condition is true"
+2. "do-while" loops run code at least once
+3. "for loops" are a more compact way of writing loops
 */
