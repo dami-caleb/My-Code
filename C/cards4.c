@@ -41,3 +41,17 @@ int main(){
 
     return 0;
 }
+
+
+/*
+1. Switch statements efficently check for multiple values
+of a variable
+2. Every program needs a main() function
+3.You need to complie your C program before you run it
+4.You can use the && operator on the command line to run
+your program only if it complies
+5. -o specifies the output file
+
+1.Si
+
+*/
