@@ -5,8 +5,8 @@ read -p "By solving the equation a = 20 - 9a, the value of a will be: " user_sol
 #computer_solution = 2
 if [$user_soution == $computer_solution]
 then
-	echo'Nice job!'
+	echo 'Nice job!'
 else
-	echo"That is wrong."
+	echo "That is wrong."
 fi
  
