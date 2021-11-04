@@ -1,4 +1,4 @@
-#!bin/bash
+
 
 clear
 echo "I love JESUS and the HOLYSPIRIT. I AM MOVING WITH THE SPEED OF THE HOLYGHOST!"
