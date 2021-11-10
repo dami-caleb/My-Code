@@ -7,13 +7,15 @@ void setup(){
 }
 
 void loop(){
+ 	counter = counter+ 100;
  	
-  	digitalWrite(red_LED,HIGH);
-  	delay(500);
-  	digitalWrite(red_LED,LOW);
-  	delay(500);
   
-  	counter ++;
+  	digitalWrite(red_LED,HIGH);
+  	delay(1000 -counter);
+  	digitalWrite(red_LED,LOW);
+  	delay(1000 -counter);
+  
+  	
     
 	String message = "We have blinked: ";
     String message1 = " time(s).";
