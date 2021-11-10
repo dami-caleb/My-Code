@@ -1,4 +1,4 @@
-int built_in_LED = 13;
+int built_in_LED = 13;  //look at the part labelled "L"
 
 void setup(){
 
