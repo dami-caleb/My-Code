@@ -21,8 +21,10 @@ string reply1 = "It was great.";
 
 
 int main(){
-    stract(greeting,MAX,reply); //
+    //strcat(greeting,MAX,reply); //This function takes in 3 arguments. Firat "greeting" the destination argument. Second "MAX" the size of the destination string (we are ware the size of greeting is 40). Third "reply" the second array to concatenate
+    //not that using "strcat" modifies the first string "greeting" 
 
-
+    //As for the string class, you can concatenate strings insode the printing line of code
+    cout<<conversation1 + " " + reply1<<endl;
 return 0;
 }
