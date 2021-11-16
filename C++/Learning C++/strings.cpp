@@ -11,11 +11,12 @@ The std::string class comes with the C++ standard library
 #include <cstring> //this contains functions to handle the charcter array strings (the c infornt means it is part of the c standard library)
 using namespace std;
 
-cp
+const int MAX = 40;
 
 int main(){
 
-char name[] = "Jenifer";
+char name[MAX] = "Hey Jenifer! ";
+char reply[] = "Hello :) ! "; //Notice we did not specify length
 
 
 return 0;
