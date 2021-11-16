@@ -13,10 +13,15 @@ using namespace std;
 
 const int MAX = 40;
 
-int main(){
-
-char name[MAX] = "Hey Jenifer! ";
+char greeting[MAX] = "Hey Jenifer! ";
 char reply[] = "Hello :) ! "; //Notice we did not specify length
+
+string conversation1 = "How was your day?";
+string reply1 = "It was great.";
+
+
+int main(){
+    stract(greeting,MAX,reply); //
 
 
 return 0;
