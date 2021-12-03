@@ -1,7 +1,7 @@
 # Create a module
 #a module is just a python file
 
-def get_range(data):
+def range(data):
     data.sort()
     return data[-1] -data[0]
 
