@@ -19,3 +19,7 @@ while True:
     
 for fruit in fruits:
     print("one of your favourite fruit is: ",fruit)
+    
+    
+#The first item in is the last item out
+#The last item item in is the first item out
