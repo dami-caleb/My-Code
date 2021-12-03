@@ -20,6 +20,6 @@ while True:
 for fruit in fruits:
     print("one of your favourite fruit is: ",fruit)
     
-    
+ ##Using the pop, the data with the highest index is removed   
 #The first item in is the last item out
 #The last item item in is the first item out
