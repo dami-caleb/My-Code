@@ -26,4 +26,8 @@ print(hash(True))  ##see true can be hashable
 #dictionaries don't work with mutable types 
 #A tuple is like a string, but it is not mutable
 
-#mutable =  the data in can be changed
+#mutable =  the data can be changed
+
+#Advantage:
+#No matter the size of a dictionary, the time taken to retrive data does not increase
+#You can accociate two data together
