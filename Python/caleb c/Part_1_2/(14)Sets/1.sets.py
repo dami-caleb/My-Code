@@ -17,5 +17,6 @@ print(storage)
 
 #As you may have noticed "information" is presnt in words_in_message 3 times but it is only shown in the set once
 #Set is good for a yes or non search
-#
+
+#similar to dictionaries sets use hashing
     
