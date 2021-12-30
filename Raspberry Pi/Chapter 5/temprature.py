@@ -30,7 +30,13 @@ def Hex_to_Dec():
 s = "frfwwevvvv"
 print(s.find("wwe"))
 
-
+#You want to replace all occurrences of a string within another string.
+#Use the replace function.
+#For example, to replace all occurrences of X with times, 
+# you would use the following:
+s = "It was the best of X. It was the worst of X"
+print(s.replace("X", "times"))
+print(s)
 
 
 
