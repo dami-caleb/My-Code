@@ -51,4 +51,11 @@ stuffs  = [3,2,4,"Joy"]
 print("There are",len(stuffs)," items in the list stuff ")
 
 for i in range(len(stuffs)):
-	print("Item number ",i,"is ",stuffs[i-1])
+	print("Item number ",i,"is ",stuffs[i])
+
+#You need to run some lines of code for each item in a list in turn, 
+#but you also need to know the index position of each item.
+
+a = [34, 'Fred', 12, False, 72.3]
+for (i, x) in enumerate(a):
+	print(i, x)
