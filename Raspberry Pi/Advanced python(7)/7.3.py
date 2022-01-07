@@ -13,4 +13,4 @@ def calculate_tempratures(kelvin):
     return celsius, fahrenheit
 
 celsius_value, fahrenheit_value = calculate_tempratures(42)
-print(celsius_value)
+print("The celsius value is: ", celsius_value)
