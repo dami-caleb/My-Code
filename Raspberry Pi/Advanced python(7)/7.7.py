@@ -29,6 +29,8 @@ try:
 except IOError:
     print("Cannot open the file")
 
+##################################
+#Practice
 C_file = open('myfile.c','w')
 C_file.write("#include <stdio.h>")
 C_file.close()
