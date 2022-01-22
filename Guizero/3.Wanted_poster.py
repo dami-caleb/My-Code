@@ -1,4 +1,4 @@
-from guizero import App, Text
+from guizero import App, Text, Picture
 
 app = App("Wanted!")
 
@@ -11,5 +11,8 @@ wanted_message.text_size = 30
 wanted_message1 = Text(app,"DEAD OR ALIVE.")
 wanted_message1.font = "Times New Roman"
 wanted_message1.text_size = 20
+
+wanted_person = Picture(app, image="image.gif")
+
 
 app.display()
